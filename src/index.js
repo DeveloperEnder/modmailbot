@@ -109,3 +109,5 @@ try {
   // Start the bot
   main.start();
 })();
+
+console.log ("logged in as Endless Management");
